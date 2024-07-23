@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Nice to meet all of you! I am Data, AI, and Cloud enthusiast. I specializes in analytics, AI/ML, system design, infrastructure as code, observability, and general DevSecOps.
+
+On top of that, I also love software engineering in general. I immerse myself in exploring various software engineering disciplines such as front-end/back-end/mobile-app development, networking, microservices, performance optimization (❤️), and testing.
+
 ![Maximillianus's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximillianus&show_icons=true&theme=tokyonight)
 
 <!--
